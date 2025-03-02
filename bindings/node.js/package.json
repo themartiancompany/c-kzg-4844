@@ -8,7 +8,7 @@
   ],
   "license": "MIT",
   "dependencies": {
-    "node-addon-api": "^5.0.0",
+    "node-addon-api": "^5.1.0",
     "bindings": "^1.5.0"
   },
   "devDependencies": {
